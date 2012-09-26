@@ -15,7 +15,7 @@ public class CrossView extends View {
 	public CrossView(Context context, AttributeSet attrs) {
 		super(context, attrs);
 		mPaint.setAntiAlias(true);
-		mPaint.setColor(0xFFFFFFFF);
+		 mPaint.setColor(0xFFFF0000);
 		// TODO Auto-generated constructor stub
 	}
 
